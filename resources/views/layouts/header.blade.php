@@ -7,10 +7,10 @@
                 </a>
             </div>
             <div class=" text-l grow">            
-                <a href="#" class="opacity-75 mr-1 p-2 rounded-md hover:opacity-100 aria-current='page' hover:bg-zinc-700">Home</a>
-                <a href="#" class="opacity-75 mr-1 p-2 rounded-md hover:opacity-100 hover:bg-zinc-700">Over Mij</a>
-                <a href="#" class="opacity-75 mr-1 p-2 rounded-md hover:opacity-100 hover:bg-zinc-700">Projecten</a>
-                <a href="#" class="opacity-75 mr-1 p-2 rounded-md hover:opacity-100 hover:bg-zinc-700">Contact</a>
+                <a href="/" class="opacity-75 mr-1 p-2 rounded-md hover:opacity-100 aria-current='page' hover:bg-zinc-700">Home</a>
+                <a href="/about-me" class="opacity-75 mr-1 p-2 rounded-md hover:opacity-100 hover:bg-zinc-700">Over Mij</a>
+                <a href="/projects" class="opacity-75 mr-1 p-2 rounded-md hover:opacity-100 hover:bg-zinc-700">Projecten</a>
+                <a href="/contact" class="opacity-75 mr-1 p-2 rounded-md hover:opacity-100 hover:bg-zinc-700">Contact</a>
             </div>
             <div class="text-xl">
             <a href="https://github.com/Jelle-Kuipers"><i class="fa-brands fa-github opacity-75 mr-1 p-2 rounded-md hover:opacity-100 hover:bg-zinc-700"></i></a> 

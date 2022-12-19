@@ -5,15 +5,14 @@
 
 @section('content')
 <div class="w-screen">
-<div class="font-jet bg-red-500 text-slate-100 w-7/12 p-2 mx-auto my-8 text-center"> 
-    <h1 class="opfont-semibold text-2xl">
-        Welkom!
+<div class="font-jet text-slate-100 w-7/12 p-2 my-8 text-left"> 
+    <h1 class="opfont-semibold text-8xl">
+        Hallo! 
+        {{-- Mogelijk Goedenmiddag/ochten/avond afhankelijk van huidige tijd gebruiker --}}
     </h1>
-    <p>
-        Welkom op mijn portfolio website, op deze website is informatie over mij en mijn projecten te vinden.
-        Deze site is een work-in-progress en zal worden geupdate en verandert over tijd.
-
-        Momenteel ben ik aan het nadeken over diverse functies zoals een automatische vertaling (NL en EN), Light en Dark mode & een mogelijkheid om reacties te plaatsen op de site zelf
+    <p class="Text-3xl py-2">
+        Ik ben Jelle, <br>
+        Student Software Development
     </p>
 </div>
 </div>
