@@ -1,4 +1,4 @@
-<footer class="mt-auto">
+<footer class="mt-auto font-jet">
     <div class="bg-zinc-900 p-2.5 flex justify-center border-t-4 border-purple-700">
         <div class="w-6/12">
             <div class="grid grid-cols-2 text-slate-100">
