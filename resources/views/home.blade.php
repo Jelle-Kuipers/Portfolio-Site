@@ -4,8 +4,9 @@
 <title>Home | Jelle Kuipers</title>
 
 @section('content')
-<div class="">
-    <h1>
+<div class="w-screen">
+<div class="font-jet bg-red-500 text-slate-100 w-7/12 p-2 mx-auto my-8 text-center"> 
+    <h1 class="opfont-semibold text-2xl">
         Welkom!
     </h1>
     <p>
@@ -15,10 +16,12 @@
         Momenteel ben ik aan het nadeken over diverse functies zoals een automatische vertaling (NL en EN), Light en Dark mode & een mogelijkheid om reacties te plaatsen op de site zelf
     </p>
 </div>
-<div>
+</div>
+
+<div class="font-jet">
     <h1>Over mij</h1>
 </div>
-<div>
+<div class="font-jet text-slate-100">
     <h1>Opleiding</h1>
     <p>Ik volg momenteel de opleiding software developer op het Alfa-college in Hardenberg.
         Dit is een niveau 4 opleiding op het MBO (Crebo nummer: 12345678).
@@ -64,19 +67,19 @@
     <p>Dit was mijn eerste bijbaantje. Ik heb hier schoongemaakt, rekken gespiegeld en klanten geholpen.</p>
 
 </div>
-<div>
+<div class="font-jet">
     <h1>Projecten</h1>
 </div>
-<div>
+<div class="font-jet">
     <h1>Tijdreis</h1>
 </div>
-<div>
+<div class="font-jet">
     <h1>Handmade by daantje</h1>
 </div>
-<div>
+<div class="font-jet">
     <h1>Webshop casus</h1>
 </div>
-<div>
+<div class="font-jet">
     <h1>Portfolio website</h1>
     <P>Deze website heb ik gemaakt tijdens mijn schooluren waar we ook naar stagebedrijven moesten gaan zoeken</P>
     <p>Deze website is gemaakt met Laravel, Backpack voor laravel en Tailwindcss</p>
