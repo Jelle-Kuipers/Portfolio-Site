@@ -7,10 +7,10 @@
                         <p class="font-bold">Projecten</p>
                         <div class="border-b-2 opacity-75 my-1 w-3/4"></div>
                         <ul class="list-disc list-inside">
-                            <li><a class="opacity-75 p-1 rounded-md hover:opacity-100" href="">Webshop</a></li>
-                            <li><a class="opacity-75 p-1 rounded-md hover:opacity-100" href="">Tijdreis</a></li>
-                            <li><a class="opacity-75 p-1 rounded-md hover:opacity-100" href="">Webshop</a></li>
-                            <li><a class="opacity-75 p-1 rounded-md hover:opacity-100" href="">Portfolio</a></li>
+                            <li><a class="opacity-75 p-1 rounded-md hover:opacity-100" href="/projects#webshop">Webshop</a></li>
+                            <li><a class="opacity-75 p-1 rounded-md hover:opacity-100" href="/projects#tijdreis">Tijdreis</a></li>
+                            <li><a class="opacity-75 p-1 rounded-md hover:opacity-100" href="/projects#daantje">Webshop</a></li>
+                            <li><a class="opacity-75 p-1 rounded-md hover:opacity-100" href="/projects#portfolio">Portfolio</a></li>
                         </ul>
                     </div>
                 </div>
